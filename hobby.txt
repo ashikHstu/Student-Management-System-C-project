@@ -1,0 +1,16 @@
+film
+book
+basketboll
+football
+climb
+game
+programming
+photography
+drawing
+travel
+writing
+song
+chess
+dance
+running
+skiing
